@@ -1,0 +1,50 @@
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 268px;
+    height: 438px;
+    background-color: #EDEFEE;
+    border-radius: 10px 10px 0px 0px;
+}
+.imgContainer {
+    border-radius: 10px 10px 0px 0px;
+}
+.imgCard {
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+    object-fit: cover;
+}
+.name-price {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.name {
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    padding-right: 73px;
+    padding-left: 18px;
+}
+.price {
+    font-family: 'Karla', sans-serif;
+    color: #EE9972;
+}
+.detailsContainer {
+    width: 216px;
+    margin-left: 20px;
+}
+.detail {
+    font-family: 'Karla', sans-serif;
+    text-align: justify;
+    font-weight: 400;
+    font-size: 16px;
+}
+.deliveryText {
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    cursor: pointer;
+}

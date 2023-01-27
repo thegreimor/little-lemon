@@ -1,0 +1,30 @@
+.footerContainer {
+    display: flex;
+    padding-top: 66px;
+    padding-bottom: 60px;
+}
+
+.logoImg {
+    width: 166px;
+    padding-left: 290px;
+    padding-right: 54px;
+}
+.listContainer {
+    padding-right: 95px;
+}
+.titlleList {
+    font-family: 'Markazi Text', serif;
+    font-weight: 700;
+    color: #506450;
+    font-size: 24px;
+}
+.ulNav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.liFooterNav {
+    font-family: 'Markazi Text', serif;
+    font-size: 20px;
+    cursor: pointer;
+}

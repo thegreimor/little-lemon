@@ -1,0 +1,39 @@
+.highContainer {
+    margin-top: 10px;
+    justify-content: center;
+    margin-left: 207px;
+    margin-right: 277px;
+}
+
+.firstContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 215px;
+
+}
+.section {
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    color: black;
+    font-size: 35px;
+    
+    
+}
+.sectionBtn {
+    height: 46px;
+    width: 149px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: #F4CE14;
+    color: #000;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+}
+.secondContainer {
+    display: flex;
+    justify-content: space-between;
+}
